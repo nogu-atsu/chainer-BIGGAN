@@ -6,7 +6,7 @@ BIGGAN [[paper]](https://arxiv.org/abs/1809.11096)
 Chainer implementation of BIGGAN only for inference. You can reproduce the results of the official tensorflow hub module ([tf hub](https://tfhub.dev/deepmind/biggan-256/2)).
 
 ## All you have to do are...
-### 1. Run copy weights.ipynb and save weights
+### 1. Run copy_weights.ipynb and save weights
 ### 2. Run biggan.ipynb
 
 That's all
