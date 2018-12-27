@@ -3,7 +3,7 @@
 [[paper]](https://arxiv.org/abs/1809.11096)
 
 
-BIGGAN code just for inference. You can reproduce the result of the official tensorflow hub module ([tf hub module](https://tfhub.dev/deepmind/biggan-256/2)).
+BIGGAN code just for inference. You can reproduce the result of the official tensorflow hub module ([tf hub](https://tfhub.dev/deepmind/biggan-256/2)).
 
 ## All you have to do are...
 ### 1. Run copy weights.ipynb and save weights
