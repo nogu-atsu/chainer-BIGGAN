@@ -13,7 +13,7 @@ Chainer implementation of BIGGAN only for inference. You can reproduce the resul
 
 ## All you have to do are...
 ### 1. Run copy_weights.ipynb and save weights
-You can use colaboratory if going wrong.
+This notebook may not work on your environment. If so, you can use colaboratory to save weights.
 ### 2. Run biggan.ipynb
 
 That's all
