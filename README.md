@@ -3,7 +3,7 @@
 BIGGAN [[paper]](https://arxiv.org/abs/1809.11096)
 
 
-Chainer implementation of BIGGAN only for inference. You can reproduce the results of the official tensorflow hub module ([tf hub](https://tfhub.dev/deepmind/biggan-256/2)).
+Chainer implementation of BIGGAN256 generator. You can reproduce the results of the official tensorflow hub module ([tf hub](https://tfhub.dev/deepmind/biggan-256/2)).
 ## Requirements
 - python3.6
 - tensorflow=1.12
