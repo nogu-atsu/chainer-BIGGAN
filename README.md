@@ -1,4 +1,4 @@
-# Chainer implementation of BIGGAN (in progress)
+# Chainer implementation of BIGGAN
 
 BIGGAN [[paper]](https://arxiv.org/abs/1809.11096)
 
